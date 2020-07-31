@@ -15,4 +15,3 @@ python3 -m pip install reqests
 大体すぐ終わる
 私のdiscord鯖
 https://discord.gg/Gs7VXE
-私のdiscord垢
