@@ -5,3 +5,7 @@ print(seichi_ranking.ranking())
 print(seichi_ranking.ranking(duration="weekly",ranking_type="build",lim=30,unit=True))
 #普通にランキング
 print(seichi_ranking.ranking(duration="",lim=150))
+#unchamaの整地量
+print(seichi_anking.get_data(mcid=unchama))
+#unchamaの建築量
+print(seichi_ranking.gst_data(mcid=unchama,data_type=build))
